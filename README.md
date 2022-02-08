@@ -2,7 +2,7 @@
 Finds complement of Boolean Expression using Unate Recursive paradigm
 
 ## What is Unate Recursive Complement?
-The Unate Recursive Paradigm (URP) idea to determine tautology for a Boolean expression represented as a cube list using the Positional CubeNotation (PCN). It turns out that many common Boolean computations can be done using the
+The Unate Recursive Paradigm (URP) idea is to determine tautology for a Boolean expression represented as a cube list using the Positional CubeNotation (PCN). It turns out that many common Boolean computations can be done using the
 URP ideas.
 
 Where Cubes represent the minterms, and cubelist represents the list of minterms.
